@@ -136,7 +136,6 @@ while True:
                     })
                 else:
                     sufficient_stock = False
-
                 break
 
         if not found:
